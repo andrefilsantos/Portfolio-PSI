@@ -1,0 +1,13 @@
+c:\users\aluno\documents\visual studio 2015\Projects\m09_p01\m09_p01\bin\Debug\m09_p01.exe.config
+C:\Users\aluno\Desktop\m09_p01\m09_p01\bin\Debug\m09_p01.exe.config
+C:\Users\aluno\Desktop\m09_p01\m09_p01\bin\Debug\m09_p01.exe
+C:\Users\aluno\Desktop\m09_p01\m09_p01\bin\Debug\m09_p01.pdb
+C:\Users\aluno\Desktop\m09_p01\m09_p01\obj\Debug\m09_p01.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\m09_p01\m09_p01\obj\Debug\m09_p01.Properties.Resources.resources
+C:\Users\aluno\Desktop\m09_p01\m09_p01\obj\Debug\m09_p01.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\m09_p01\m09_p01\obj\Debug\m09_p01.exe
+C:\Users\aluno\Desktop\m09_p01\m09_p01\obj\Debug\m09_p01.pdb
+C:\Users\aluno\Desktop\m09_p01\m09_p01\obj\Debug\m09_p01.frm_1.resources
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M09\m09_p01\m09_p01\bin\Debug\m09_p01.exe.config
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M09\m09_p01\m09_p01\obj\Debug\m09_p01.exe
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M09\m09_p01\m09_p01\obj\Debug\m09_p01.pdb
