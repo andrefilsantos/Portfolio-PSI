@@ -1,0 +1,12 @@
+C:\Users\aluno\Desktop\psi_10h\M01_T01_N02\M01_T01_N02\bin\Debug\M01_T01_N02.exe.config
+C:\Users\aluno\Desktop\psi_10h\M01_T01_N02\M01_T01_N02\obj\Debug\M01_T01_N02.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\psi_10h\M01_T01_N02\M01_T01_N02\bin\Debug\M01_T01_N02.exe
+C:\Users\aluno\Desktop\psi_10h\M01_T01_N02\M01_T01_N02\bin\Debug\M01_T01_N02.pdb
+C:\Users\aluno\Desktop\psi_10h\M01_T01_N02\M01_T01_N02\obj\Debug\M01_T01_N02.exe
+C:\Users\aluno\Desktop\psi_10h\M01_T01_N02\M01_T01_N02\obj\Debug\M01_T01_N02.pdb
+G:\Programação e Sistemas de Informação\psi_10h\M01_T01_N02\M01_T01_N02\bin\Debug\M01_T01_N02.exe.config
+G:\Programação e Sistemas de Informação\psi_10h\M01_T01_N02\M01_T01_N02\obj\Debug\M01_T01_N02.exe
+G:\Programação e Sistemas de Informação\psi_10h\M01_T01_N02\M01_T01_N02\obj\Debug\M01_T01_N02.pdb
+G:\Programação e Sistemas de Informação\Programação\M01_T01_N02\M01_T01_N02\bin\Debug\M01_T01_N02.exe.config
+G:\Programação e Sistemas de Informação\Programação\M01_T01_N02\M01_T01_N02\obj\Debug\M01_T01_N02.exe
+G:\Programação e Sistemas de Informação\Programação\M01_T01_N02\M01_T01_N02\obj\Debug\M01_T01_N02.pdb

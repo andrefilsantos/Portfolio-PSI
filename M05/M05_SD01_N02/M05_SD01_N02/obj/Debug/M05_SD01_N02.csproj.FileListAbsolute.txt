@@ -1,0 +1,9 @@
+C:\Users\André\Desktop\M05_SD01_N02\M05_SD01_N02\bin\Debug\M05_SD01_N02.exe.config
+C:\Users\André\Desktop\M05_SD01_N02\M05_SD01_N02\bin\Debug\M05_SD01_N02.exe
+C:\Users\André\Desktop\M05_SD01_N02\M05_SD01_N02\bin\Debug\M05_SD01_N02.pdb
+C:\Users\André\Desktop\M05_SD01_N02\M05_SD01_N02\obj\Debug\M05_SD01_N02.csprojResolveAssemblyReference.cache
+C:\Users\André\Desktop\M05_SD01_N02\M05_SD01_N02\obj\Debug\M05_SD01_N02.exe
+C:\Users\André\Desktop\M05_SD01_N02\M05_SD01_N02\obj\Debug\M05_SD01_N02.pdb
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M05\M05_SD01_N02\M05_SD01_N02\bin\Debug\M05_SD01_N02.exe.config
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M05\M05_SD01_N02\M05_SD01_N02\obj\Debug\M05_SD01_N02.exe
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M05\M05_SD01_N02\M05_SD01_N02\obj\Debug\M05_SD01_N02.pdb

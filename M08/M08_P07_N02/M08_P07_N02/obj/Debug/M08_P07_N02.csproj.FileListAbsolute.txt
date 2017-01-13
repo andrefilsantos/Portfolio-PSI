@@ -1,0 +1,9 @@
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M08\M08_P07_N02\M08_P07_N02\bin\Debug\M08_P07_N02.exe.config
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M08\M08_P07_N02\M08_P07_N02\bin\Debug\M08_P07_N02.exe
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M08\M08_P07_N02\M08_P07_N02\bin\Debug\M08_P07_N02.pdb
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M08\M08_P07_N02\M08_P07_N02\obj\Debug\M08_P07_N02.csprojResolveAssemblyReference.cache
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M08\M08_P07_N02\M08_P07_N02\obj\Debug\M08_P07_N02.Form1.resources
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M08\M08_P07_N02\M08_P07_N02\obj\Debug\M08_P07_N02.Properties.Resources.resources
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M08\M08_P07_N02\M08_P07_N02\obj\Debug\M08_P07_N02.csproj.GenerateResource.Cache
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M08\M08_P07_N02\M08_P07_N02\obj\Debug\M08_P07_N02.exe
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M08\M08_P07_N02\M08_P07_N02\obj\Debug\M08_P07_N02.pdb

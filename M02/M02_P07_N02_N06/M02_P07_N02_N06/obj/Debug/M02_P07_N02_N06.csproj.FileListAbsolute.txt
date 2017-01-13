@@ -1,0 +1,6 @@
+H:\Programação e Sistemas de Informação\Programação\M02\M02_P07_N02_N06\M02_P07_N02_N06\bin\Debug\M02_P07_N02_N06.exe.config
+H:\Programação e Sistemas de Informação\Programação\M02\M02_P07_N02_N06\M02_P07_N02_N06\bin\Debug\M02_P07_N02_N06.exe
+H:\Programação e Sistemas de Informação\Programação\M02\M02_P07_N02_N06\M02_P07_N02_N06\bin\Debug\M02_P07_N02_N06.pdb
+H:\Programação e Sistemas de Informação\Programação\M02\M02_P07_N02_N06\M02_P07_N02_N06\obj\Debug\M02_P07_N02_N06.csprojResolveAssemblyReference.cache
+H:\Programação e Sistemas de Informação\Programação\M02\M02_P07_N02_N06\M02_P07_N02_N06\obj\Debug\M02_P07_N02_N06.exe
+H:\Programação e Sistemas de Informação\Programação\M02\M02_P07_N02_N06\M02_P07_N02_N06\obj\Debug\M02_P07_N02_N06.pdb

@@ -1,0 +1,6 @@
+D:\Programação e Sistemas de Informação\Programação\M03\M03_T01_N02\M03_T01_N02\bin\Debug\M03_T01_N02.exe.config
+D:\Programação e Sistemas de Informação\Programação\M03\M03_T01_N02\M03_T01_N02\bin\Debug\M03_T01_N02.exe
+D:\Programação e Sistemas de Informação\Programação\M03\M03_T01_N02\M03_T01_N02\bin\Debug\M03_T01_N02.pdb
+D:\Programação e Sistemas de Informação\Programação\M03\M03_T01_N02\M03_T01_N02\obj\Debug\M03_T01_N02.csprojResolveAssemblyReference.cache
+D:\Programação e Sistemas de Informação\Programação\M03\M03_T01_N02\M03_T01_N02\obj\Debug\M03_T01_N02.exe
+D:\Programação e Sistemas de Informação\Programação\M03\M03_T01_N02\M03_T01_N02\obj\Debug\M03_T01_N02.pdb

@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\M05_P02\M05_P02\bin\Debug\M05_P02.exe.config
+C:\Users\aluno\Desktop\M05_P02\M05_P02\obj\Debug\M05_P02.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\M05_P02\M05_P02\bin\Debug\M05_P02.exe
+C:\Users\aluno\Desktop\M05_P02\M05_P02\bin\Debug\M05_P02.pdb
+C:\Users\aluno\Desktop\M05_P02\M05_P02\obj\Debug\M05_P02.exe
+C:\Users\aluno\Desktop\M05_P02\M05_P02\obj\Debug\M05_P02.pdb
+C:\Users\aluno\Desktop\Arruma as cenas!-.-\M05_P02\M05_P02\bin\Debug\M05_P02.exe.config
+C:\Users\aluno\Desktop\Arruma as cenas!-.-\M05_P02\M05_P02\obj\Debug\M05_P02.exe
+C:\Users\aluno\Desktop\Arruma as cenas!-.-\M05_P02\M05_P02\obj\Debug\M05_P02.pdb
+C:\Users\aluno\Desktop\Arruma as cenas!-.-\M05_P02\M05_P02\obj\Debug\M05_P02.csprojResolveAssemblyReference.cache

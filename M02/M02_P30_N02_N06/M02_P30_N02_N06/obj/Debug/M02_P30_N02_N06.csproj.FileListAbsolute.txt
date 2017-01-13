@@ -1,0 +1,15 @@
+c:\users\prof\documents\visual studio 2013\Projects\M02_P30_N02_N06\M02_P30_N02_N06\bin\Debug\M02_P30_N02_N06.exe.config
+c:\users\prof\documents\visual studio 2013\Projects\M02_P30_N02_N06\M02_P30_N02_N06\obj\Debug\M02_P30_N02_N06.csprojResolveAssemblyReference.cache
+c:\users\prof\documents\visual studio 2013\Projects\M02_P30_N02_N06\M02_P30_N02_N06\bin\Debug\M02_P30_N02_N06.exe
+c:\users\prof\documents\visual studio 2013\Projects\M02_P30_N02_N06\M02_P30_N02_N06\bin\Debug\M02_P30_N02_N06.pdb
+c:\users\prof\documents\visual studio 2013\Projects\M02_P30_N02_N06\M02_P30_N02_N06\obj\Debug\M02_P30_N02_N06.exe
+c:\users\prof\documents\visual studio 2013\Projects\M02_P30_N02_N06\M02_P30_N02_N06\obj\Debug\M02_P30_N02_N06.pdb
+H:\Programação e Sistemas de Informação\Programação\M02\M02_P30_N02_N06\M02_P30_N02_N06\bin\Debug\M02_P30_N02_N06.exe.config
+H:\Programação e Sistemas de Informação\Programação\M02\M02_P30_N02_N06\M02_P30_N02_N06\obj\Debug\M02_P30_N02_N06.exe
+H:\Programação e Sistemas de Informação\Programação\M02\M02_P30_N02_N06\M02_P30_N02_N06\obj\Debug\M02_P30_N02_N06.pdb
+H:\Programação e Sistemas de Informação\Programação\M02\M02_P30_N02_N06\M02_P30_N02_N06\bin\Debug\M02_P30_N02_N06.exe
+H:\Programação e Sistemas de Informação\Programação\M02\M02_P30_N02_N06\M02_P30_N02_N06\bin\Debug\M02_P30_N02_N06.pdb
+H:\Programação e Sistemas de Informação\Programação\M02\M02_P30_N02_N06\M02_P30_N02_N06\obj\Debug\M02_P30_N02_N06.csprojResolveAssemblyReference.cache
+G:\Programação e Sistemas de Informação\Programação\M02\M02_P30_N02_N06\M02_P30_N02_N06\bin\Debug\M02_P30_N02_N06.exe.config
+G:\Programação e Sistemas de Informação\Programação\M02\M02_P30_N02_N06\M02_P30_N02_N06\obj\Debug\M02_P30_N02_N06.exe
+G:\Programação e Sistemas de Informação\Programação\M02\M02_P30_N02_N06\M02_P30_N02_N06\obj\Debug\M02_P30_N02_N06.pdb

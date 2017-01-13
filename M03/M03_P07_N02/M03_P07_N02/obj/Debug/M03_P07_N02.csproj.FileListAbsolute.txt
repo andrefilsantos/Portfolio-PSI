@@ -1,0 +1,12 @@
+G:\Programação e Sistemas de Informação\Programação\M03\M03_P07_N02\M03_P07_N02\bin\Debug\M03_P07_N02.exe.config
+G:\Programação e Sistemas de Informação\Programação\M03\M03_P07_N02\M03_P07_N02\bin\Debug\M03_P07_N02.exe
+G:\Programação e Sistemas de Informação\Programação\M03\M03_P07_N02\M03_P07_N02\bin\Debug\M03_P07_N02.pdb
+G:\Programação e Sistemas de Informação\Programação\M03\M03_P07_N02\M03_P07_N02\obj\Debug\M03_P07_N02.csprojResolveAssemblyReference.cache
+G:\Programação e Sistemas de Informação\Programação\M03\M03_P07_N02\M03_P07_N02\obj\Debug\M03_P07_N02.exe
+G:\Programação e Sistemas de Informação\Programação\M03\M03_P07_N02\M03_P07_N02\obj\Debug\M03_P07_N02.pdb
+D:\Programação e Sistemas de Informação\Programação\M03\M03_P07_N02\M03_P07_N02\bin\Debug\M03_P07_N02.exe.config
+D:\Programação e Sistemas de Informação\Programação\M03\M03_P07_N02\M03_P07_N02\obj\Debug\M03_P07_N02.exe
+D:\Programação e Sistemas de Informação\Programação\M03\M03_P07_N02\M03_P07_N02\obj\Debug\M03_P07_N02.pdb
+D:\Programação e Sistemas de Informação\Programação\M03\M03_P07_N02\M03_P07_N02\bin\Debug\M03_P07_N02.exe
+D:\Programação e Sistemas de Informação\Programação\M03\M03_P07_N02\M03_P07_N02\bin\Debug\M03_P07_N02.pdb
+D:\Programação e Sistemas de Informação\Programação\M03\M03_P07_N02\M03_P07_N02\obj\Debug\M03_P07_N02.csprojResolveAssemblyReference.cache

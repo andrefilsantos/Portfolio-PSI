@@ -1,0 +1,6 @@
+C:\Users\aluno\Desktop\M05_P01\M05_P01\bin\Debug\M05_P01.exe.config
+C:\Users\aluno\Desktop\M05_P01\M05_P01\obj\Debug\M05_P01.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\M05_P01\M05_P01\bin\Debug\M05_P01.exe
+C:\Users\aluno\Desktop\M05_P01\M05_P01\bin\Debug\M05_P01.pdb
+C:\Users\aluno\Desktop\M05_P01\M05_P01\obj\Debug\M05_P01.exe
+C:\Users\aluno\Desktop\M05_P01\M05_P01\obj\Debug\M05_P01.pdb

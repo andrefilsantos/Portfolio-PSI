@@ -1,0 +1,6 @@
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M07\M07_P02_N02\M07_P02_N02\bin\Debug\M07_P02_N02.exe.config
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M07\M07_P02_N02\M07_P02_N02\bin\Debug\M07_P02_N02.exe
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M07\M07_P02_N02\M07_P02_N02\bin\Debug\M07_P02_N02.pdb
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M07\M07_P02_N02\M07_P02_N02\obj\Debug\M07_P02_N02.csprojResolveAssemblyReference.cache
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M07\M07_P02_N02\M07_P02_N02\obj\Debug\M07_P02_N02.exe
+C:\Users\André\Dropbox\Escola\Programação e Sistemas de Informação\Programação\M07\M07_P02_N02\M07_P02_N02\obj\Debug\M07_P02_N02.pdb

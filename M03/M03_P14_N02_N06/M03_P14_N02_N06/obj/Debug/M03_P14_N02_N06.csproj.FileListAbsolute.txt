@@ -1,0 +1,6 @@
+D:\Programação e Sistemas de Informação\Programação\M03\M03_P14_N02_N06\M03_P14_N02_N06\bin\Debug\M03_P14_N02_N06.exe.config
+D:\Programação e Sistemas de Informação\Programação\M03\M03_P14_N02_N06\M03_P14_N02_N06\bin\Debug\M03_P14_N02_N06.exe
+D:\Programação e Sistemas de Informação\Programação\M03\M03_P14_N02_N06\M03_P14_N02_N06\bin\Debug\M03_P14_N02_N06.pdb
+D:\Programação e Sistemas de Informação\Programação\M03\M03_P14_N02_N06\M03_P14_N02_N06\obj\Debug\M03_P14_N02_N06.csprojResolveAssemblyReference.cache
+D:\Programação e Sistemas de Informação\Programação\M03\M03_P14_N02_N06\M03_P14_N02_N06\obj\Debug\M03_P14_N02_N06.exe
+D:\Programação e Sistemas de Informação\Programação\M03\M03_P14_N02_N06\M03_P14_N02_N06\obj\Debug\M03_P14_N02_N06.pdb

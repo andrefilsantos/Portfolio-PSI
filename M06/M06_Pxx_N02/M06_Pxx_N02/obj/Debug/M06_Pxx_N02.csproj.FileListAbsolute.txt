@@ -1,0 +1,6 @@
+C:\Users\aluno\Desktop\M06_Pxx_N02\M06_Pxx_N02\bin\Debug\M06_Pxx_N02.exe.config
+C:\Users\aluno\Desktop\M06_Pxx_N02\M06_Pxx_N02\bin\Debug\M06_Pxx_N02.exe
+C:\Users\aluno\Desktop\M06_Pxx_N02\M06_Pxx_N02\bin\Debug\M06_Pxx_N02.pdb
+C:\Users\aluno\Desktop\M06_Pxx_N02\M06_Pxx_N02\obj\Debug\M06_Pxx_N02.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\M06_Pxx_N02\M06_Pxx_N02\obj\Debug\M06_Pxx_N02.exe
+C:\Users\aluno\Desktop\M06_Pxx_N02\M06_Pxx_N02\obj\Debug\M06_Pxx_N02.pdb

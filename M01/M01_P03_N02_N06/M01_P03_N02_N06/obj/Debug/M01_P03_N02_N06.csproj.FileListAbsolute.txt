@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\psi_10h\M01_P03_N02_N06\M01_P03_N02_N06\bin\Debug\M01_P03_N02_N06.exe.config
+C:\Users\aluno\Desktop\psi_10h\M01_P03_N02_N06\M01_P03_N02_N06\bin\Debug\M01_P03_N02_N06.exe
+C:\Users\aluno\Desktop\psi_10h\M01_P03_N02_N06\M01_P03_N02_N06\bin\Debug\M01_P03_N02_N06.pdb
+C:\Users\aluno\Desktop\psi_10h\M01_P03_N02_N06\M01_P03_N02_N06\obj\Debug\M01_P03_N02_N06.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\psi_10h\M01_P03_N02_N06\M01_P03_N02_N06\obj\Debug\M01_P03_N02_N06.exe
+C:\Users\aluno\Desktop\psi_10h\M01_P03_N02_N06\M01_P03_N02_N06\obj\Debug\M01_P03_N02_N06.pdb
+D:\Programação e Sistemas de Informação\Programação\PSI 10H (T1_Andre02)\M01_P03_N02_N06\M01_P03_N02_N06\bin\Debug\M01_P03_N02_N06.exe.config
+D:\Programação e Sistemas de Informação\Programação\PSI 10H (T1_Andre02)\M01_P03_N02_N06\M01_P03_N02_N06\obj\Debug\M01_P03_N02_N06.exe
+D:\Programação e Sistemas de Informação\Programação\PSI 10H (T1_Andre02)\M01_P03_N02_N06\M01_P03_N02_N06\obj\Debug\M01_P03_N02_N06.pdb
+E:\Programação e Sistemas de Informação\Programação\PSI 10H (T1_Andre02)\M01_P03_N02_N06\M01_P03_N02_N06\bin\Debug\M01_P03_N02_N06.exe.config
+E:\Programação e Sistemas de Informação\Programação\PSI 10H (T1_Andre02)\M01_P03_N02_N06\M01_P03_N02_N06\obj\Debug\M01_P03_N02_N06.exe
+E:\Programação e Sistemas de Informação\Programação\PSI 10H (T1_Andre02)\M01_P03_N02_N06\M01_P03_N02_N06\obj\Debug\M01_P03_N02_N06.pdb
+G:\Programação e Sistemas de Informação\Programação\PSI 10H (T1_Andre02)\M01_P03_N02_N06\M01_P03_N02_N06\bin\Debug\M01_P03_N02_N06.exe.config
+G:\Programação e Sistemas de Informação\Programação\PSI 10H (T1_Andre02)\M01_P03_N02_N06\M01_P03_N02_N06\obj\Debug\M01_P03_N02_N06.exe
+G:\Programação e Sistemas de Informação\Programação\PSI 10H (T1_Andre02)\M01_P03_N02_N06\M01_P03_N02_N06\obj\Debug\M01_P03_N02_N06.pdb
